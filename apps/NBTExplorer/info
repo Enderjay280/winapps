@@ -1,0 +1,17 @@
+# GNOME shortcut name
+NAME="NBTExplorer"
+
+# Used for descriptions and window class
+FULL_NAME="NBTExplorer"
+
+# The executable inside windows
+WIN_EXECUTABLE="C:\Program Files (x86)\NBTExplorer\NBTExplorer.exe"
+
+# GNOME categories
+CATEGORIES="WinApps;"
+
+# GNOME mimetypes
+MIME_TYPES="file/dat;"
+
+# System Icon
+ICON="NBTExplorer"
